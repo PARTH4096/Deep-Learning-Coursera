@@ -1,1 +1,3 @@
 # Deep-Learning-Coursera
+This repository contains the programming assignments completed during the Coursera Specialization on Deep Learning by Andrew Ng.
+It should be used only for reference purposes. I strongly advise against copying code from this repository. The students must try to complete the assignments on their own, which are pretty easy along with the help given on the website and the video lectures.
